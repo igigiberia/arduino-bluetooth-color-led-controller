@@ -3,6 +3,7 @@ I am still adding some features, like turning off and turning on of the strip.</
 I am still figuring out how to achive brightness control from that app, or I may switch to different
 
 # Devices I used:
+Arduino Uno R3</br>
 Full Color RGB LED Strip Driver Module Shield for Arduino UNO R3 STM32 AVR 12VDC V1.0 For MCU System (same as Full Color RGB LED Strip Driver Module Shield for Arduino STM32 AVR V1.0 CF)</br>
 HC05 Bluetooth RF module
 
